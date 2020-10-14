@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TodayNewInformation</string>
+    <string name="splash_count_time">3</string>
 </resources>
