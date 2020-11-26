@@ -1,15 +1,15 @@
-package com.candymobi.todaynewinformation.Utils;
+package com.candymobi.todaynewinformation.splash;
 
 
 import android.os.Handler;
 
-public class CountTimer implements Runnable {
+public class CountTimerTask implements Runnable {
     private int mCountTime;
     private Handler mHandler;
     private final ICountHandler mCountHandler;
     private boolean isTick;
 
-    public CountTimer(int time, ICountHandler CountHandler) {
+    public CountTimerTask(int time, ICountHandler CountHandler) {
         mCountTime = time;
         mHandler = new Handler();
         mCountHandler = CountHandler;

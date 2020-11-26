@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">TodayNewInformation</string>
     <string name="splash_count_time">3</string>
+    <string name="str_shanghai">上海</string>
+    <string name="str_hangzhou">杭州</string>
+    <string name="str_beijing">北京</string>
+    <string name="str_shenzhen">深圳</string>
 </resources>
