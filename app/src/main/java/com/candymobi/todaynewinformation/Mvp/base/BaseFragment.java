@@ -16,12 +16,12 @@ import java.util.zip.Inflater;
 import butterknife.ButterKnife;
 
 public abstract class BaseFragment extends LifeCircleMvpFragment {
-    private Context mContext;
+    protected Context mContext;
 
     @Override
     public void onAttach(Context context) {
         super.onAttach(context);
-        mContext = context;
+     this.mContext = context;
     }
 
     @Nullable

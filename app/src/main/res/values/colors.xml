@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#005F85</color>
+    <color name="colorPrimaryDark">#1E88E5</color>
     <color name="colorAccent">#0E0D0D</color>
     <color name="coloWhite">#ffffff</color>
     <color name="main_tab_text_color_checked">#ADADAD</color>
     <color name="main_tab_text_color_unchecked">#000000</color>
     <color name="color_pink">#FFE90C58</color>
     <color name="color_yellow">#FFB300</color>
+    <color name="color_gray">#F3ADADAD</color>
+
 </resources>

@@ -6,6 +6,10 @@ import android.support.v4.app.Fragment;
 
 import com.candymobi.todaynewinformation.Mvp.base.BaseMvpPresenter;
 import com.candymobi.todaynewinformation.R;
+import com.candymobi.todaynewinformation.main.Shanghai.ShangHaiFragment;
+import com.candymobi.todaynewinformation.main.beijing.BeiJingFragment;
+import com.candymobi.todaynewinformation.main.hangzhou.HangZhouFragment;
+import com.candymobi.todaynewinformation.main.shenzhen.ShenZhenFragment;
 
 public class MainActivityPresenter extends BaseMvpPresenter<IMainActivityContract.Iview> implements IMainActivityContract.IPresenter {
 

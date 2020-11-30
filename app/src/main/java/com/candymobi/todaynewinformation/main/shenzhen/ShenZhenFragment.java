@@ -1,4 +1,4 @@
-package com.candymobi.todaynewinformation.main;
+package com.candymobi.todaynewinformation.main.shenzhen;
 
 import android.support.v4.app.Fragment;
 
